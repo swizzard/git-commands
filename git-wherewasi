@@ -1,0 +1,4 @@
+#! /usr/bin/bash
+
+
+git --no-pager log develop.. --name-only -n 1
